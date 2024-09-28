@@ -1,1 +1,3 @@
 Contenido
+Modificación archivo2
+Añado más texto para probar git --amend
